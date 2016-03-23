@@ -1,10 +1,12 @@
+# Directory Structure
+```
 | -- communication.md
-| -- contributions.md
+| -- contributing.md
 | -- current-events.md
 | -- documents
 |    | -- sponsorship.md
 |    | -- steering.md
-|    | -- ?
+|    | -- directory-structure.md
 | -- events
 |    | -- meetups
 |    |    | -- 2016
@@ -33,3 +35,4 @@
 |    | -- johndoe.md
 |    | -- janedoe.md
 ` -- topics.md
+```
