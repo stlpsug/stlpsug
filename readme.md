@@ -11,7 +11,7 @@ Please see our [Topics](topics.md) list to discover what presentations have been
 
 Take a look at the [Current Events](current-events.md) for a quick overview of PowerShell related events in the St. Louis region over the next 30 days.
 
-If you're not sure how to [contribute](contributing.md) or how we are [communicating](communication.md), we've got documents for that.
+If you're not sure how to [contribute](contributing.md) or how we are [communicating](https://github.com/stlpsug/collaboration-guides), we've got documents for that.
 
 If you're interested in sponsoring STLPSUG, please see [this](documents/sponsorship.md) document.
 
