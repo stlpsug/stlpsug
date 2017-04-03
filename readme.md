@@ -1,6 +1,8 @@
 [![Stories in Ready](https://badge.waffle.io/stlpsug/stlpsug.png?label=ready&title=Ready)](https://waffle.io/stlpsug/stlpsug)
 
 # stlpsug
+
+[![Join the chat at https://gitter.im/stlpsug/stlpsug](https://badges.gitter.im/stlpsug/stlpsug.svg)](https://gitter.im/stlpsug/stlpsug?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 St. Louis PowerShell User Group Main Repository
 
 _**Note:** All empty files require work - there should be issues for most (or all) of them; please feel free to fork this repository and submit a pull request or to make suggestions and requests under Issues._
